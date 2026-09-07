@@ -1,5 +1,3 @@
-<p><a href="https://north-wind-capital.github.io/"><img src="https://north-wind-capital.github.io/assets/north-wind-logo.png" alt="North Wind Capital compass logo" width="120"></a></p>
-
 # North Wind Capital
 
 ### From information to signals. From signals to decisions.
