@@ -1,3 +1,5 @@
+<p><a href="https://north-wind-capital.github.io/"><img src="https://north-wind-capital.github.io/assets/north-wind-logo.png" alt="North Wind Capital compass logo" width="120"></a></p>
+
 # North Wind Capital
 
 ### From information to signals. From signals to decisions.
@@ -15,3 +17,5 @@ We focus on the path from raw information to actionable insight: finding relevan
 ## On GitHub
 
 This is the home of North Wind Capital's engineering work, connecting data, research, and decision systems.
+
+[Visit our public site](https://north-wind-capital.github.io/) for a less serious take on prevailing signals.
